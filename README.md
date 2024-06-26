@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a package that creates a professional README based off of user input in a command-line application.
+This is a package that creates a professional README based off of user input in a command-line application. Using node index.js you can fill out prompts to create your professional README quickly!
 
 
 ## Table of Contents
@@ -18,11 +18,11 @@ This is a package that creates a professional README based off of user input in 
 
 ## Installation
 
-**clone the repository** || cd README-generator || install dependencies: npm install inquirer@8.2.4
+**Clone the repository** || cd README-generator || install dependencies: npm install inquirer@8.2.4
 
 ## Usage
 
-In order to use this package, once installed run node index.js in your integrated terminal and follow the prompts to create a professional README. Refer to video under ## Visuals for further usage information.
+In order to use this package, once installed run node index.js in your integrated terminal and follow the prompts to create a professional README. Refer to video under [Visuals](#visuals) for further usage information.
 
 ## Visuals
 
