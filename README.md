@@ -4,6 +4,7 @@
 
 This is a package that creates a professional README based off of user input in a command-line application. Using node index.js you can fill out prompts to create your professional README quickly!
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Table of Contents
 
