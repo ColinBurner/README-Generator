@@ -22,10 +22,18 @@ This is a package that creates a professional README based off of user input in 
 
 ## Usage
 
-In order to use this package, once installed run node index.js in your integrated terminal and follow the prompts to create a professional README.
+In order to use this package, once installed run node index.js in your integrated terminal and follow the prompts to create a professional README. Refer to video under ## Visuals for further usage information.
 
 ## Visuals
 
+![Screenshot 2024-06-26 121221](https://github.com/ColinBurner/README-Generator/assets/85810714/061b2436-6f77-4527-821a-84356b3b0659)
+This screenshot shows packages fs and inquirer included in the application.
+
+![Screenshot 2024-06-26 121303](https://github.com/ColinBurner/README-Generator/assets/85810714/e6417fde-b57f-4979-aec7-633d76b359b5)
+This screenshot shows the fs.writeToFile function.
+
+https://drive.google.com/file/d/1q5KWlvO68ZJE1k_Dl0BznfjqJ8Jxt9zG/view
+This is a link to a video walkthrough of using the application.
 
 ## License
 
