@@ -22,6 +22,14 @@ In order to use this package, once installed properly run node.js in your integr
 
 ## Visuals
 
+![Screenshot 2024-06-26 121221](https://github.com/ColinBurner/README-Generator/assets/85810714/5501c5e4-b069-4392-bbe8-bfb83da86c32)
+This screenshot shows the code for including fs and inquirer packages.
+
+![Screenshot 2024-06-26 121303](https://github.com/ColinBurner/README-Generator/assets/85810714/18895dc7-9e2b-451b-b1ca-d8883c92cb9b)
+This screenshot shows the function for writing to the markdown file using fs.writeToFile.
+
+![Screenshot 2024-06-26 121321](https://github.com/ColinBurner/README-Generator/assets/85810714/ebf251a1-115f-446b-ad57-3a54ba83aebb)
+This screenshot shows the question prompts for the creation of the README.md file.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## License
