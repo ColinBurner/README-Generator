@@ -58,6 +58,9 @@ function generateMarkdown(data) {
 
 ${data.description}
 
+
+${renderLicenseBadge(data.license)}
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -77,7 +80,6 @@ ${data.usage}
 ## Visuals
 
 
-${renderLicenseBadge(data.license)}
 ${renderLicenseSection(data.license)}
 
 
@@ -86,6 +88,8 @@ ${renderLicenseSection(data.license)}
 ${data.contributing}
 
 ## Roadmap
+
+## Tests
 
 ## Questions
 

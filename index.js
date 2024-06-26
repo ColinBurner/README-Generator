@@ -38,8 +38,18 @@ const questions = [
       },
       {
         type: 'input',
+        name: 'tests',
+        message: 'Input testing info:'
+      },
+      {
+        type: 'input',
         name: 'credits',
         message: 'List your collaborators:'
+      },
+      {
+        type: 'input',
+        name: 'questions',
+        message: 'Questions:'
       },
       {
         type: 'input',
